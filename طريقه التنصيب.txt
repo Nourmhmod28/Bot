@@ -1,0 +1,13 @@
+
+تنصيب لاول مره
+1- cd + maker
+2- pip install -r requirements.txt
+3- bash start
+
+
+تنصيب بعد كده 
+1- cd + maker
+3- bash start
+...... 
+
+#'‹ سورس هورس › .'#
